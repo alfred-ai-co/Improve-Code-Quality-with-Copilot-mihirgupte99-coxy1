@@ -2,7 +2,7 @@
 
 This project is a Project Management API built with FastAPI, SQLAlchemy, and SQLite. The API allows users to manage projects and their associated tickets.
 
-## Folder Structure
+### Folder Structure
 ```bash
 app/
 ├── api/
@@ -23,7 +23,7 @@ app/
 ├── project_management.db
 ```
 
-## .env Instructions
+### .env Instructions
 
 Create a `.env` file in the `app/` directory with the following contents:
 
